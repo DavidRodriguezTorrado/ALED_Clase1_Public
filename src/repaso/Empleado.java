@@ -12,7 +12,7 @@ public class Empleado extends Persona implements Cansado {
 
 	@Override
 	public void descansar() {
-		System.out.println("Soy un empleado y estoy descansando...");
+		System.out.println("Soy un empleado y estoy descansando mucho...");
 	}
 
 }
