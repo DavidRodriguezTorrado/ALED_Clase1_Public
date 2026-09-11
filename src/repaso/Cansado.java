@@ -1,0 +1,7 @@
+package repaso;
+
+public interface Cansado {
+
+	public void descansar();
+	
+}
