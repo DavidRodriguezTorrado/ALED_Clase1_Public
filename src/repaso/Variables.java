@@ -1,7 +1,5 @@
 package repaso;
 
-import java.util.Iterator;
-
 public class Variables {
 	
 	private int atributo;
